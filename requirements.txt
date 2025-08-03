@@ -16,6 +16,7 @@ openai-whisper
 llama-index
 llama-index-vector-stores-lancedb
 llama-index-multi-modal-llms-openai
+llama-index-embeddings-huggingface
 llama-index-embeddings-clip
 llama-index-readers-file
 git+https://github.com/openai/CLIP.git
