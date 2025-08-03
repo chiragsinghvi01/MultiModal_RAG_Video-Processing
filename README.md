@@ -65,3 +65,9 @@ A comprehensive multimodal Retrieval-Augmented Generation (RAG) system that proc
 - Large videos will generate many frames and require more processing time
 - OpenAI API usage will incur costs based on your query volume
 - Some videos may have download restrictions or require special handling
+
+## 👨‍💻 Author
+
+**Chirag Singhvi**
+- Email: csinghvi15@gmail.com
+- GitHub: [@chiragsinghvi01](https://github.com/chiragsinghvi01)
